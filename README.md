@@ -18,3 +18,12 @@
 
 8. LUCAS DA SILVA COSTA. UMA NOVA HEURÍSTICA DE COLORAÇÃO GULOSA SEQUENCIAL. 2018. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal do Ceará. Orientador: Wladimir Araujo Tavares. [PDF](http://www.repositorio.ufc.br/bitstream/riufc/39615/1/2018_tcc_lscosta.pdf)
 
+
+9. MICHAEL DOUGLAS GONÇALVES NÓBREGA. UM PROGRAMA DE ESTUDOS BASEADO EM PROBLEMAS DE PROGRAMAÇÃO PARA ALGORITMOS MATEMÁTICOS. 2021. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação) - Universidade Federal do Ceará. Orientador: Wladimir Araujo Tavares.[PDF](https://repositorio.ufc.br/bitstream/riufc/65341/1/2022_tcc_mdgnobrega.pdf)
+
+10. PAULO MIRANDA E SILVA SOUSA. PERSISTENT A*: UMA MELHORIA DO ALGORITMO A* USANDO ÁRVORE DE SEGMENTO PERSISTENTE E HASHING INCREMENTAL. 2021. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Computação) - Universidade Federal do Ceará. Orientador: Wladimir Araujo Tavares.[PDF](https://repositorio.ufc.br/bitstream/riufc/65339/1/2022_tcc_pmssousa.pdf)
+
+11. VICTOR DE SOUZA LIMA. UMA ANÁLISE MERCADOLÓGICA DAS TRANSFERÊNCIAS DOS CLUBES BRASILEIROS DE FUTEBOL UTILIZANDO REDES COMPLEXAS. 2021. Trabalho de Conclusão de Curso. (Graduação em Sistema de Informação) - Universidade Federal do Ceará. Orientador: Wladimir Araujo Tavares. [PDF](https://repositorio.ufc.br/bitstream/riufc/65424/1/2021_tcc_vdeslima.pdf)
+
+12. DAVI GOMES FLORENCIO. ALGORITMOS PARA O PROBLEMA DO NÚMERO DE GRUNDY. 2021. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal do Ceará. Orientador: Wladimir Araujo Tavares.[PDF](https://repositorio.ufc.br/bitstream/riufc/65411/1/2021_tcc_dgflorencio.pdf)
+
